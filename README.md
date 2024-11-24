@@ -6,4 +6,7 @@ This including following folder:
 4. AI model
 5. Data Science
 
-For your information, the mobile app need to change the IP address in the folder to your current IP address.
+Project Folder List:
+1. MobileApp (TestingProject)
+2. WebApplication (prototype04)
+3. DataSci (semmonggoh)
