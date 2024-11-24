@@ -1,0 +1,17 @@
+{
+    "model_name": "Animal Classification Model",
+    "version": "1.0",
+    "description": "Computing Technology Innovation Project",
+    "author": "cos30049",
+    "date_created": "2024-11-06",
+    "input_shape": [
+        null,
+        224,
+        224,
+        3
+    ],
+    "output_shape": [
+        null,
+        10
+    ]
+}
