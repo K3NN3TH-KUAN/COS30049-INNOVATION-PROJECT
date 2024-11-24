@@ -9,4 +9,4 @@ This including following folder:
 Project Folder List:
 1. MobileApp (TestingProject)
 2. WebApplication (prototype04)
-3. DataSci (semmonggoh)
+3. DataSci (semmonggoh.sql)
