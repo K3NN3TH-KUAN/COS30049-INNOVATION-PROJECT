@@ -1,0 +1,93 @@
+side_name,image_name,predicted_animal,date_taken,time_taken,day_night,confidence_%
+0002-A,RCNX0293_2ccc.JPG,munjact,2022:01:01,06:52:38,day,18.65
+0002-A,RCNX1523.JPG,yellow throated marten,2021:05:15,09:05:48,day,22.43
+0002-A,RCNX1523_2345676543.JPG,bearded pig,2021:07:12,06:08:06,day,22.13
+0002-A,RCNX1524.JPG,yellow throated marten,2021:05:15,09:05:49,day,22.20
+0002-A,RCNX1524_212345678765432.JPG,bearded pig,2021:07:12,06:08:07,day,22.82
+0002-A,RCNX1525.JPG,yellow throated marten,2021:05:15,09:05:50,day,22.59
+0002-A,RCNX1534.JPG,bearded pig,2021:07:12,11:10:51,day,19.61
+0002-A,RCNX1535.JPG,bearded pig,2021:07:12,11:10:52,day,19.25
+0002-A,RCNX1550.JPG,bearded pig,2021:07:13,05:03:05,day,18.81
+0002-A,RCNX1569.JPG,long tailed macaque,2021:06:13,14:47:04,day,14.70
+0002-B,IMG_0050 (2).JPG,sambar deer,2019:01:19,22:20:36,night,23.17
+0002-B,IMG_0051 (2).JPG,sambar deer,2019:01:19,22:20:37,night,23.13
+0002-B,IMG_0052 (2).JPG,sambar deer,2019:01:19,22:20:38,night,23.01
+0002-B,IMG_0053 (2).JPG,sambar deer,2019:01:19,22:20:39,night,23.19
+0002-B,RCNX0291.JPG,yellow throated marten,2023:07:30,10:43:42,day,23.14
+0002-B,RCNX0291_2ccc.JPG,munjact,2022:01:01,06:52:34,day,15.69
+0002-B,RCNX0292.JPG,yellow throated marten,2023:07:30,10:43:45,day,22.92
+0002-B,RCNX0292_2ccc.JPG,munjact,2022:01:01,06:52:37,day,19.00
+0002-B,RCNX0293.JPG,yellow throated marten,2023:07:30,10:43:46,day,23.14
+0002-C,RCNX1570.JPG,long tailed macaque,2021:06:13,14:47:06,day,21.05
+0002-C,RCNX1571.JPG,leopard cat,2021:06:13,14:47:07,day,14.48
+0002-C,RCNX1576.JPG,bearded pig,2021:06:13,14:47:44,day,21.23
+0002-C,RCNX3277.JPG,bearded pig,2021:08:08,15:59:14,day,22.15
+0002-C,RCNX3331.JPG,yellow throated marten,2021:05:21,15:33:41,day,22.10
+0002-C,RCNX3332.JPG,yellow throated marten,2021:05:21,15:33:42,day,20.52
+0002-C,RCNX3424.JPG,malayan civet,2021:05:31,22:33:35,night,22.68
+0002-C,RCNX3425.JPG,malayan civet,2021:05:31,22:33:36,night,22.31
+0002-C,RCNX3426.JPG,malayan civet,2021:05:31,22:33:37,night,22.44
+0002-C,RCNX3427.JPG,malayan civet,2021:06:01,00:21:43,day,22.36
+0002-C,RCNX3428.JPG,malayan civet,2021:06:01,00:21:44,day,22.82
+0002-C,RCNX3558.JPG,pig tailed macaque,2021:08:10,07:37:22,day,19.38
+0002-C,RCNX3559.JPG,pig tailed macaque,2021:08:10,07:37:23,day,19.57
+0002-C,RCNX3560.JPG,pig tailed macaque,2021:08:10,07:37:24,day,20.32
+0002-C,RCNX3561.JPG,pig tailed macaque,2021:08:10,07:37:25,day,15.12
+0002-C,RCNX3563.JPG,yellow throated marten,2021:08:10,07:37:27,day,14.77
+0002-C,RCNX3564.JPG,bearded pig,2021:08:10,07:37:28,day,14.38
+0002-C,RCNX3565.JPG,bearded pig,2021:08:10,07:37:29,day,14.16
+0002-C,RCNX3566.JPG,bearded pig,2021:08:10,07:37:30,day,16.95
+0002-D,RCNX0001.JPG,malayan civet,2022:03:01,04:56:13,day,17.49
+0002-D,RCNX0002.JPG,malayan civet,2022:03:01,04:56:14,day,14.87
+0002-D,RCNX0003.JPG,malayan civet,2022:03:01,04:56:15,day,17.59
+0002-D,RCNX0004.JPG,malayan civet,2022:03:01,23:03:25,night,21.46
+0002-D,RCNX0005.JPG,leopard cat,2022:03:01,23:03:26,night,16.31
+0002-D,RCNX0006.JPG,leopard cat,2022:03:01,23:03:27,night,16.55
+0002-D,RCNX0007.JPG,malayan civet,2022:03:01,23:03:29,night,22.52
+0002-D,RCNX0062.JPG,yellow throated marten,2022:02:25,11:54:12,day,19.48
+0002-D,RCNX0063.JPG,yellow throated marten,2022:02:25,11:54:13,day,22.52
+0002-D,RCNX0643.JPG,pig tailed macaque,2022:03:18,08:37:09,day,20.10
+0002-D,RCNX0644.JPG,pig tailed macaque,2022:03:18,08:37:10,day,21.70
+0002-D,RCNX0645.JPG,pig tailed macaque,2022:03:18,08:37:11,day,21.33
+0002-D,RCNX0646.JPG,pig tailed macaque,2022:03:18,08:37:11,day,18.20
+0002-D,RCNX0647.JPG,pig tailed macaque,2022:03:18,08:37:12,day,17.96
+0002-D,RCNX0648.JPG,pig tailed macaque,2022:03:18,08:37:13,day,18.48
+0002-D,RCNX0649.JPG,pig tailed macaque,2022:03:18,08:37:15,day,17.99
+0002-D,RCNX0650.JPG,pig tailed macaque,2022:03:18,08:37:17,day,20.03
+0002-D,RCNX0651.JPG,pig tailed macaque,2022:03:18,08:37:18,day,17.62
+0002-D,RCNX0652.JPG,munjact,2022:03:18,08:37:20,day,13.79
+0002-D,RCNX0653.JPG,munjact,2022:03:18,08:37:21,day,15.41
+0002-D,RCNX0654.JPG,munjact,2022:03:18,08:37:22,day,16.65
+0002-E,RCNX0058.JPG,munjact,2023:09:24,09:36:26,day,23.16
+0002-E,RCNX0059.JPG,munjact,2023:09:24,09:36:27,day,23.17
+0002-E,RCNX0060.JPG,munjact,2023:09:24,09:36:28,day,23.19
+0002-E,RCNX0274.JPG,yellow throated marten,2022:03:07,16:12:46,day,22.59
+0002-E,RCNX0275.JPG,yellow throated marten,2022:03:07,16:12:47,day,19.57
+0002-E,RCNX0276.JPG,yellow throated marten,2022:03:07,16:12:48,day,21.84
+0002-E,RCNX0277.JPG,yellow throated marten,2022:03:07,16:12:51,day,22.28
+0002-E,RCNX0278.JPG,yellow throated marten,2022:03:07,16:12:52,day,20.81
+0002-E,RCNX0279.JPG,yellow throated marten,2022:03:07,16:12:53,day,23.18
+0002-E,RCNX0283.JPG,yellow throated marten,2022:03:07,16:13:17,day,22.40
+0002-E,RCNX0284.JPG,yellow throated marten,2022:03:07,16:13:18,day,22.64
+0002-E,RCNX0285.JPG,yellow throated marten,2022:03:07,16:13:19,day,22.98
+0002-E,RCNX0286.JPG,yellow throated marten,2022:03:07,16:13:32,day,21.00
+0002-E,RCNX0287.JPG,yellow throated marten,2022:03:07,16:13:33,day,22.78
+0002-E,RCNX0862.JPG,pig tailed macaque,2022:03:21,17:21:45,day,23.19
+0002-E,RCNX2971.JPG,leopard cat,2022:04:17,22:05:21,night,17.29
+0002-E,RCNX2972.JPG,leopard cat,2022:04:17,22:05:22,night,20.04
+0002-E,RCNX2973.JPG,leopard cat,2022:04:17,22:05:23,night,18.77
+0002-E,RCNX2974.JPG,leopard cat,2022:04:17,22:05:24,night,17.80
+0002-E,RCNX2975.JPG,leopard cat,2022:04:17,22:05:25,night,19.43
+0002-E,RCNX2976.JPG,leopard cat,2022:04:17,22:05:26,night,19.73
+0002-E,RCNX3529.JPG,malayan civet,2022:05:09,16:13:16,day,12.49
+0002-E,RCNX3530.JPG,malayan civet,2022:05:09,16:13:17,day,13.42
+0002-E,RCNX3531.JPG,malayan civet,2022:05:09,16:13:18,day,13.49
+0002-E,RCNX3532.JPG,sambar deer,2022:05:09,16:13:56,day,15.56
+0002-E,RCNX3533.JPG,sambar deer,2022:05:09,16:13:57,day,21.63
+0002-E,RCNX3534.JPG,malayan civet,2022:05:09,16:13:58,day,21.53
+0002-E,RCNX3535.JPG,leopard cat,2022:05:09,16:14:01,day,20.95
+0002-E,RCNX3536.JPG,leopard cat,2022:05:09,16:14:02,day,21.28
+0002-E,RCNX3537.JPG,malayan civet,2022:05:09,16:14:03,day,19.59
+Apa_Ini,RCNX3535.JPG,leopard cat,2022:05:09,16:14:01,day,20.95
+Apa_Ini,RCNX3536.JPG,leopard cat,2022:05:09,16:14:02,day,21.28
+Apa_Ini,RCNX3537.JPG,malayan civet,2022:05:09,16:14:03,day,19.59

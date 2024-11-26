@@ -1,0 +1,90 @@
+/* DonationTable.css */
+.hero-section {
+  padding: 50px 20px;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+
+.hero-text-container {
+  position: relative;
+  z-index: 1;
+}
+
+.donation-table-container {
+  padding: 40px;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+}
+
+.donation-table-container h1 {
+  font-size: 2.2em;
+  color: #333;
+  margin-bottom: 0.5em;
+}
+
+.table-wrapper {
+  overflow-x: auto; /* Ensures table is scrollable on smaller screens */
+}
+
+.donation-table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  font-size: 0.9em;
+}
+
+.filter-container label,
+.filter-container select {
+  font-size: 1.1rem; /* Larger filter dropdown */
+  margin-right: 0.5rem;
+}
+
+.donation-table th,
+.donation-table td {
+  padding: 15px;
+  text-align: left;
+}
+
+.donation-table th {
+  background-color: #3b6e39; /* Header background color */
+  color: #fff; /* Header text color */
+  font-weight: bold;
+}
+
+.donation-table td {
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ddd;
+}
+
+.donation-table tr:hover {
+  background-color: #e6f4ea; /* Light hover effect */
+}
+
+.donation-table th:first-child,
+.donation-table td:first-child {
+  text-align: center; /* Center-align ID column */
+}
+
+.donation-table th:nth-child(3),
+.donation-table td:nth-child(3) {
+  text-align: right; /* Right-align amount for readability */
+}
+
+.donation-table th,
+.donation-table td {
+  border-right: 1px solid #ddd;
+}
+
+.donation-table th:last-child,
+.donation-table td:last-child {
+  border-right: none; /* Remove last column border */
+  text-align: center;
+}
+
+.error-message {
+  color: red;
+  font-size: 1.1em;
+  margin-bottom: 1em;
+}

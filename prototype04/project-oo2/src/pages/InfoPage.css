@@ -1,0 +1,99 @@
+/* src/pages/InfoPage.css */
+
+.info-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.info-title {
+  font-size: 36px;
+  color: #4caf50;
+  margin: 20px 0; /* Adjusted margin for better spacing */
+  text-align: center;
+}
+
+.hero-section {
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the background image */
+  height: 400px; /* Set a height for the hero section */
+  display: flex; /* Use flexbox to center content */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  color: white; /* Text color */
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6); /* Add text shadow for readability */
+  border-bottom: 4px solid #f1c40f; /* Bottom border for visual interest */
+}
+
+.hero-title {
+  font-size: 48px; /* Adjust font size */
+  margin: 0; /* Remove default margin */
+  padding: 20px; /* Add padding for better spacing */
+  text-align: center; /* Center align the title */
+  font-weight: bold; /* Make the title bold */
+  font-style: italic;
+}
+
+.hero-text-container {
+  background: rgba(0, 0, 0, 0.6); /* Light black background */
+  padding: 1em 2em;
+  border-radius: 8px;
+  max-width: 80%;
+}
+
+.hero-description {
+  font-size: 1.2em; /* Slightly larger font size */
+  font-weight: 300;
+  color: #ffffff; /* Brighter color for better contrast */
+  margin-top: 0.5em; /* Space between title and description */
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6); /* Subtle shadow for readability */
+}
+
+.animal-section {
+  background: linear-gradient(135deg, #ffffff, #c2e6d1);
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  text-align: center;
+}
+
+.animal-title {
+  font-size: 28px;
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.animal-image {
+  width: 100%;
+  max-width: 500px;
+  height: 300px;
+  border-radius: 8px;
+  margin: 10px 0;
+}
+
+.animal-description {
+  font-size: 18px;
+  color: #555;
+  line-height: 1.6;
+}
+
+@media screen and (max-width: 768px) {
+  .info-title {
+      font-size: 28px;
+  }
+
+  .banner-title {
+      font-size: 2rem; /* Adjust for smaller screens */
+  }
+
+  .animal-title {
+      font-size: 24px;
+  }
+
+  .animal-description {
+      font-size: 16px;
+  }
+}

@@ -1,0 +1,123 @@
+/* Banner Section */
+.hero-section {
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the background image */
+  height: 400px; /* Set a height for the hero section */
+  display: flex; /* Use flexbox to center content */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  color: white; /* Text color */
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6); /* Add text shadow for readability */
+  border-bottom: 4px solid #f1c40f; /* Bottom border for visual interest */
+}
+
+.hero-title {
+  font-size: 48px; /* Adjust font size */
+  margin: 0; /* Remove default margin */
+  padding: 20px; /* Add padding for better spacing */
+  text-align: center; /* Center align the title */
+  font-weight: bold; /* Make the title bold */
+  font-style: italic;
+}
+
+.hero-text-container {
+  background: rgba(0, 0, 0, 0.6); /* Light black background */
+  padding: 1em 2em;
+  border-radius: 8px;
+  max-width: 80%;
+}
+
+.hero-description {
+  font-size: 1.2em; /* Slightly larger font size */
+  font-weight: 300;
+  text-align: center;
+  color: #ffffff; /* Brighter color for better contrast */
+  margin-top: 0.5em; /* Space between title and description */
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6); /* Subtle shadow for readability */
+}
+
+/* Donation Form Section */
+.donation-form {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 25px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.donation-form label {
+  display: block;
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.donation-form input[type="text"],
+.donation-form input[type="email"],
+.donation-form input[type="number"],
+.donation-form input[type="date"], /* Add this line for date input */
+.donation-form textarea {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: border-color 0.3s;
+}
+
+.donation-form input[type="text"]:focus,
+.donation-form input[type="email"]:focus,
+.donation-form input[type="number"]:focus,
+.donation-form input[type="date"]:focus, /* Add this line for date input focus */
+.donation-form textarea:focus {
+  border-color: #4CAF50;
+  outline: none;
+}
+
+.donation-form textarea {
+  resize: vertical;
+  min-height: 100px;
+}
+
+.donation-options {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.donation-options button {
+  flex: 1;
+  padding: 10px 0;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background-color: #f2f2f2;
+  color: #333;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.donation-options button:hover {
+  background-color: #4CAF50;
+  color: #fff;
+}
+
+.donate-button {
+  width: 100%;
+  padding: 14px;
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.donate-button:hover {
+  background-color: #45a049;
+}

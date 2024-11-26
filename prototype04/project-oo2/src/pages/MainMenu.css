@@ -1,0 +1,112 @@
+.main-menu {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 30px;
+}
+
+.main-menu h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  width: 100%;
+  text-align: center;
+}
+
+.menu-category {
+  display: flex;
+  flex-direction: column; /* Stack image on top of text */
+  background-color: #c2e6d1;
+  border-radius: 10px;
+  width: calc(30% - 40px);
+  margin: 15px;
+  padding: 20px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  text-decoration: none;
+  color: inherit;
+  text-align: center; /* Center-align text content */
+}
+
+.menu-category:hover {
+  transform: translateY(-5px);
+  background-color: #a0d6c4;
+  box-shadow: 0px 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.category-image {
+  height: 200px; /* Fixed height for the image */
+  border-radius: 10px;
+  margin-bottom: 15px; /* Space between image and text */
+  object-fit: cover;
+}
+
+.category-text {
+  text-align: center;
+}
+
+.category-text h3 {
+  margin: 0;
+  font-size: 1.6rem;
+  color: #006644;
+  font-weight: 600;
+}
+
+.category-text p {
+  margin-top: 10px;
+  font-size: 1rem;
+  color: #333;
+}
+
+/* Adjust width for larger screens */
+@media (min-width: 768px) {
+  .menu-category {
+    width: calc(30% - 40px);
+  }
+}
+
+/* Full width on smaller screens */
+@media (max-width: 768px) {
+  .menu-category {
+    width: calc(100% - 40px);
+  }
+}
+
+.hero-section {
+  background-size: cover; /* Cover the entire area */
+  background-position: center; /* Center the background image */
+  height: 400px; /* Set a height for the hero section */
+  display: flex; /* Use flexbox to center content */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  color: white; /* Text color */
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6); /* Add text shadow for readability */
+  border-bottom: 4px solid #f1c40f; /* Bottom border for visual interest */
+}
+
+.hero-title {
+  font-size: 48px; /* Adjust font size */
+  margin: 0; /* Remove default margin */
+  padding: 20px; /* Add padding for better spacing */
+  text-align: center; /* Center align the title */
+  font-weight: bold; /* Make the title bold */
+  font-style: italic;
+}
+
+.hero-text-container {
+  background: rgba(0, 0, 0, 0.6); /* Light black background */
+  padding: 1em 2em;
+  border-radius: 8px;
+  max-width: 80%;
+}
+
+.hero-description {
+  font-size: 1.2em; /* Slightly larger font size */
+  font-weight: 300;
+  color: #ffffff; /* Brighter color for better contrast */
+  margin-top: 0.5em; /* Space between title and description */
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.6); /* Subtle shadow for readability */
+}
